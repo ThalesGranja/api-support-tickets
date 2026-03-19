@@ -1,1 +1,31 @@
-{"tickets":[{"id":"f1b09642-16b8-48be-befd-a7a515efe61f","equipment":"Computador","description":"Computador não liga.","user_name":"Thales Granja","status":"closed","created_at":"2026-03-17T23:27:39.008Z","updated_at":"2026-03-17T23:27:39.008Z"},{"id":"be8f795b-cb0c-4894-871e-5134947241cd","equipment":"Mouse","description":"Mouse está falhando.","user_name":"Erika Paccola","status":"open","created_at":"2026-03-17T23:33:38.695Z","updated_at":"2026-03-18T23:41:06.752Z"}]}
+{
+  "tickets": [
+    {
+      "id": "f1b09642-16b8-48be-befd-a7a515efe61f",
+      "equipment": "Computador",
+      "description": "Computador não liga.",
+      "user_name": "Thales Granja",
+      "status": "closed",
+      "created_at": "2026-03-17T23:27:39.008Z",
+      "updated_at": "2026-03-17T23:27:39.008Z"
+    },
+    {
+      "id": "be8f795b-cb0c-4894-871e-5134947241cd",
+      "equipment": "Mouse",
+      "description": "Mouse está falhando.",
+      "user_name": "Erika Paccola",
+      "status": "closed",
+      "created_at": "2026-03-17T23:33:38.695Z",
+      "updated_at": "2026-03-18T23:41:06.752Z"
+    },
+    {
+      "id": "1d6147e5-4fa1-4855-a888-d73c499b81c2",
+      "equipment": "Monitor",
+      "description": "Monitor desliga de repente.",
+      "user_name": "Kauan Pedreira",
+      "status": "closed",
+      "created_at": "2026-03-19T00:01:55.783Z",
+      "updated_at": "2026-03-19T00:01:55.783Z"
+    }
+  ]
+}
