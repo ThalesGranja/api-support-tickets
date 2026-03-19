@@ -38,9 +38,6 @@ export class Database {
           return row[key].toLowerCase().includes(value.toLowerCase())
         })
       })
-
-      console.log(data)
-
     }
 
     return data
